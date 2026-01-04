@@ -2,9 +2,9 @@
 A level editor for the Williams Classic Smash TV
 
 ## Setup
-To use this, you need to run the python script in a directory with the following rom files. 
-MAKE SURE YOU BACK THEM UP FIRST!
-la8_smash_tv_game_rom_u105.u105 and la8_smash_tv_game_rom_u89.u89.
+To use this, you need to run the python script in a directory with the following rom files: \
+la8_smash_tv_game_rom_u105.u105 and la8_smash_tv_game_rom_u89.u89.\
+MAKE SURE YOU BACK THEM UP FIRST!\
 If you have u105-la8 and u89-la8 instead, rename them to the above files.
 
 ## Entry Properties
@@ -16,9 +16,9 @@ If you have u105-la8 and u89-la8 instead, rename them to the above files.
 * Counter: Not sure on this one either. I believe it's the minimum amount that has to be killed? Lower it if the game takes a while on a certain enemy.
 
 ## Running your hack
-After saving your changes, run "mame smashtv" through command line or bat file. 
-Make sure the files are in a folder titled Smashtv in your roms directory. 
-You will know your changes worked if the game says the roms are bad. 
+After saving your changes, run "mame smashtv" through command line or bat file. \
+Make sure the files are in a folder titled Smashtv in your roms directory. \
+You will know your changes worked if the game says the roms are bad.
 
 ## Warnings
 * Always make a backup of your original roms. 

@@ -34,3 +34,6 @@ You will know your changes worked if the game says the roms are bad.
 * Figure out HTYP code that determines type for hulks, including snake hulks and mysterious unused tech crew hulk. 
 * Figure out how to turn boss mutoid man into the Evil MC
 * Figure out what turns normal droids to fat droids
+
+# File Interleaver
+Interleaves two rom files. Good for a bunch of Midway and Williams games, but you will probably need to edit what it's pointing at. 
